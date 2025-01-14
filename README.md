@@ -14,5 +14,5 @@ pip install -r requirements.txt
 
 ## Acknowledgement
 
-This project is a cumilation of our team's work which comprised of Kendrick Nguyen, Eric Song, and myself, Anh Tran. We use different level training algorithms to training the Tetris programming to test how the AI would perform. We utilized Q-learning, double Q-learning, DQN, NEAT and yield minimal results [FinalProject.ipynb](FinalProject.ipynb)
+This project is a cumilation of our team's work which comprised of Kendrick Nguyen, Eric Song, and myself, Anh Tran. We use different level training algorithms to training the Tetris programming to test how the AI would perform. We utilized Q-learning, double Q-learning, DQN, NEAT and yield minimal results which can be found at [FinalProject.ipynb](FinalProject.ipynb).
 
